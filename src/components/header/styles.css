@@ -3,6 +3,5 @@
   height: 80px;
   display: flex;
   align-items: center;
-  border: 1px solid #fff;
   background-color: var(--primary-color);
 }
